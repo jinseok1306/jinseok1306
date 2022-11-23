@@ -11,7 +11,7 @@
 ## Notion
 https://jinseok-park.notion.site/37cf6dd814f749a5b51650e5d6f1b80d
 
-## Front-End Road Map
+## Front-End Roadmap
 https://roadmap.sh/frontend  
 
 ## 기술스택
