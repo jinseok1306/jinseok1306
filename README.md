@@ -9,7 +9,10 @@
 5. 지식을 항상 다른 사람들과 공유하여 더 많은 것을 얻자.
 
 ## Notion
-https://jinseok-park.notion.site/37cf6dd814f749a5b51650e5d6f1b80d/
+https://jinseok-park.notion.site/37cf6dd814f749a5b51650e5d6f1b80d/  
+
+## Portfolio  
+https://jinseok1306.github.io/Portfolio  
 
 ## Front-End Roadmap
 https://roadmap.sh/frontend  
