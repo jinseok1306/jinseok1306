@@ -11,7 +11,7 @@
 ## Notion
 https://jinseok-park.notion.site/37cf6dd814f749a5b51650e5d6f1b80d/  
 
-## Portfolio(개발중..)  
+## Portfolio
 https://jinseok1306.github.io/Portfolio  
 
 ## Front-End Roadmap
