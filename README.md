@@ -8,7 +8,7 @@
 4. 기록하는 습관을 가지자.
 5. 지식을 항상 다른 사람들과 공유하여 더 많은 것을 얻자.
 
-## Notion
+## Notion (현재 비공개중)
 https://jinseok-park.notion.site/37cf6dd814f749a5b51650e5d6f1b80d/  
 
 ## Portfolio
